@@ -1,0 +1,30 @@
+[
+  {
+    "scenario": "Baseline",
+    "target_usd": 30000000.0,
+    "projected_usd": 60249500.0,
+    "projected_attainment_pct": 200.83,
+    "commission_expense_usd": 2249995.12
+  },
+  {
+    "scenario": "Target +10%",
+    "target_usd": 33000000.000000004,
+    "projected_usd": 60249500.0,
+    "projected_attainment_pct": 182.57,
+    "commission_expense_usd": 2209707.32
+  },
+  {
+    "scenario": "Flat commission",
+    "target_usd": 30000000.0,
+    "projected_usd": 60249500.0,
+    "projected_attainment_pct": 200.83,
+    "commission_expense_usd": 2094800.0
+  },
+  {
+    "scenario": "Accelerator 2x",
+    "target_usd": 30000000.0,
+    "projected_usd": 60249500.0,
+    "projected_attainment_pct": 200.83,
+    "commission_expense_usd": 2405190.24
+  }
+]

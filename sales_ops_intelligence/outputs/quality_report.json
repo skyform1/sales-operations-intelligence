@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "issues": [],
+  "seller_count": 80,
+  "opportunity_count": 2400,
+  "status_counts": {
+    "Open": 1568,
+    "Won": 470,
+    "Lost": 362
+  },
+  "quarter_target_usd": 30000000.0,
+  "closed_won_bookings_usd": 26185000.0,
+  "projected_bookings_usd": 60249500.0,
+  "actual_attainment_pct": 87.28,
+  "projected_attainment_pct": 200.83,
+  "forecast_reconciliation_delta_usd": 0.0
+}
