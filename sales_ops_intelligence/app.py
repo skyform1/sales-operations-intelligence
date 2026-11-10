@@ -6,7 +6,7 @@ from generate_data import ROOT
 
 st.set_page_config(page_title='Sales Operations Intelligence', layout='wide')
 st.title('Sales Operations Intelligence')
-st.caption('Human Systems | Fictional synthetic data | 2026 Q4 bookings planning')
+st.caption("Synthetic Data | Q4 2026 Sales Operations & Revenue Planning")
 sellers = read_csv(ROOT / 'data/sellers.csv')
 opps = read_csv(ROOT / 'data/opportunities.csv')
 st.sidebar.header('Planning assumptions')
